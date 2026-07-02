@@ -10,6 +10,6 @@
 
 **Execution State as Code.**
 
-Execution governance for enterprise AI, so automated systems stay under control as they scale.
+Building execution controls that keep declared intent and execution state aligned.
 
 [Website](https://covenantstate.com) · [Contact](mailto:hello@covenantstate.com)
