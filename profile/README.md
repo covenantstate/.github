@@ -10,6 +10,6 @@
 
 **Execution State as Code.**
 
-Enterprise AI needs execution governance. Covenant State builds execution controls that keep declared intent and execution state aligned as organizations and autonomous systems scale.
+Enterprise AI needs execution governance. We build execution controls that keep declared intent and execution state aligned.
 
 [Website](https://covenantstate.com) · [Contact](mailto:hello@covenantstate.com)
